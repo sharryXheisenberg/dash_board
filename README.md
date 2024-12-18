@@ -1,4 +1,4 @@
-# Modern Dashboard
+# smokyDashboard
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS. Features real-time data updates, interactive charts, and a clean, professional design.
 
@@ -95,9 +95,11 @@ modern-dashboard/
 
 2. The build files will be in the `dist` directory
 
-## 📄 License
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+For any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/sharryXheisenberg/dash_board/issues)
 
 ## 👥 Contributing
 
