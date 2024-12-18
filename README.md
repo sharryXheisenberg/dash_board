@@ -24,7 +24,7 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-dashboard.git
+   git clone https://github.com/sharryXheisenberg/dash_board.git
    ```
 
 2. Navigate to the project directory:
