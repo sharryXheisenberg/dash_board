@@ -21,7 +21,7 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 - React Loading Skeleton
 
 ## 🚀 Live Project
-Check out the live version of the app here: [PasteManager](https://dash-board-smoky.vercel.app/)  
+Check out the live version of the app here: [smokyDashboard](https://dash-board-smoky.vercel.app/)  
 Explore the features and experience the seamless interface directly in your browser!
 
 
