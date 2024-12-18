@@ -29,7 +29,7 @@ Explore the features and experience the seamless interface directly in your brow
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sharryXheisenberg/dash_board.git]
+   git clone https://github.com/sharryXheisenberg/dash_board.git
    ```
 
 2. Navigate to the project directory:
